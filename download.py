@@ -127,7 +127,7 @@ if __name__ == '__main__':
     songs = DownloadSongs(args.url,args.out_dir,root_path)
     details = songs.parse_rssfeed()
     songs.fetch_songs(details)
-    self.logger.info("**********Program Ends***********")
+    songs.logger.info("**********Program Ends***********")
     
     
 
