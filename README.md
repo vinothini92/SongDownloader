@@ -1,6 +1,6 @@
 # SongDownloader
 
-A script to automate the download of songs from rss feeds. To elimate the manual way of downloading songs every time.
+A script to automate the download of songs from rss feeds. To eliminate the manual way of downloading songs every time.
 
 ##How to use?
 If you intend to use this script,install the packages and run the script
